@@ -1,4 +1,4 @@
-# THIS Readme file are archive
+# This Readme file archive
 
 # Contributor Covenant Code of Conduct
 
